@@ -44,10 +44,6 @@ Hello! I'm Fenadis Kalanza, a Data Scientist with a rich background in Economics
 - **Data Preprocessing:** Strong skills in data cleaning, ETL, and feature engineering.
 - **Statistical Analysis:** Well-versed in econometrics, regression analysis, and A/B testing.
 
-#### Key Achievements:
-- Developed an NLP-based Sentiment Analysis model for customer feedback analysis.
-- Constructed a personalized Music Recommendation System, increasing user engagement.
-- Built interactive Visual Analytics Dashboards for strategic business insights.
 
 #### Leadership & Communication:
 - Mentored junior team members, promoting a culture of continuous learning and innovation.
