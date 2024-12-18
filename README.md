@@ -25,9 +25,6 @@
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fenadis-kalanza)
 - **Phone:** 0768710962
 
-## 😄 Pronouns:
-He/Him
-
 ---
 
 ### About Me
