@@ -22,8 +22,6 @@
 
 ## 📫 How to reach me:
 - **📧 Email:** [fenadiskalanza@gmail.com](mailto:fenadiskalanza@gmail.com)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fenadis-kalanza)
-- **Phone:** 0768710962
 
 ---
 
